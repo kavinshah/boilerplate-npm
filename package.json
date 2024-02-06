@@ -12,5 +12,6 @@
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
 	},
 	"version": "1.0.0",
-	"author" : "kavin Shah"
+	"author" : "kavin Shah",
+	"description": "tutorial to learn node"
 }
