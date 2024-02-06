@@ -13,5 +13,6 @@
 	},
 	"version": "1.0.0",
 	"author" : "kavin Shah",
-	"description": "tutorial to learn node"
+	"description": "tutorial to learn node",
+	"keywords": [ "freecodecamp"],
 }
